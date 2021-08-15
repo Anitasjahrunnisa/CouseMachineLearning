@@ -1,2 +1,2 @@
-# CouseMachineLearning
-Course Machine Learning in my Informatics Program that i finished last year
+# Machine Learning Course
+Machine Learning course that I completed a few years ago with several projects
