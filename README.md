@@ -1,2 +1,2 @@
-# Machine Learning Course
-Machine Learning course that I completed a few years ago with several projects
+# Machine Learning
+Machine Learning project that I completed from 2019-2021
